@@ -1,4 +1,4 @@
-package com.example.mvvmdemo
+package com.example.mvvmdemo.screen.listsport
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
